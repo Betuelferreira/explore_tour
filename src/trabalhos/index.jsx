@@ -1,6 +1,5 @@
 import React from "react";
 import Praia from "../../src/assets/praia1.jpeg"
-import Ipioca from "../../src/assets/Ipioca.png"
 import Pratagy from "../../src/assets/pratagy.png"
 import Garunhuns from "../../src/assets/garanhuns.png"
 import "./trabalhos.css"
