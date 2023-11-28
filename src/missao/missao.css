@@ -1,0 +1,23 @@
+.container_card{
+    background-color: #f4fbff;
+    
+    display: flex;
+    justify-content: center;
+    flex-direction: column ;
+    padding-top: 4em;
+    color: #3DA0D9;
+}
+
+.cards{
+    color: #3DA0D9;
+    text-align: center;
+}
+
+.container_card p{
+    color: #000000;
+}
+
+.alinhas_missao{
+    display: flex;
+    justify-content: center;
+}

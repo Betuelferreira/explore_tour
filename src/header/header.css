@@ -1,0 +1,31 @@
+.navbar{
+    background-color: #3DA0D9;
+    font-size: 1.2em;
+    font-weight: 500;
+    /* width: 100%;
+    position: fixed; */
+    
+
+}
+
+.navbar img{
+    width: 6rem;
+}
+
+
+
+.container_links{
+    display: flex;
+    justify-content: space-between;
+}
+
+.alinhar{
+    display: flex;
+    justify-content: flex-end;
+    
+}
+
+.alinhar a{
+    margin-left: 2em;
+    color: #ffffff;
+}
