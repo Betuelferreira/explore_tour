@@ -1,6 +1,6 @@
 import { useState } from 'react'
-import Header from './Header'
-import Banner from './Banner'
+import Header from './header'
+import Banner from './hanner'
 import Misao from './missao'
 import Quem from './quem-somos'
 import Trabalhos from './trabalhos'
